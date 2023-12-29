@@ -1,2 +1,2 @@
 # cmr-pidgin-pos-tagger
-A model for tagging cameroonian pidgin (Camtok)
+An POS tagger for cameroonian pidgin (Camtok). A Hidden Markov Model
